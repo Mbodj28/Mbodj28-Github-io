@@ -1,0 +1,218 @@
+/*
+ première page 
+ */
+ *{
+    margin:0;
+    padding:0;
+ }
+ .Rubrique1{
+    background-color: #313639;
+    width:100%;
+    display:flex;
+    height:120px;
+
+    
+ }
+.contenu1{
+   margin-top: 10px;
+
+}
+.contenu-barre-recherche{
+   margin-top:5px;
+   background-color:darkgrey;
+   width:340px;
+}
+
+
+.barre-recherche{
+font-:italic;
+width:300px;
+height:20px;
+border-radius:5px ;
+border-width: 0px;
+background-color:darkgrey;
+}
+
+.boutonOK{
+background-color:#FEF0D2;
+cursor:pointer;
+}
+
+.titrepremier{
+    -ms-flex:50%;
+    flex: 50%;
+
+ }
+
+ .partiedeforme{
+    -ms-flex:50%;
+    flex: 50%;
+    color:#FEF0D2;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.488em;
+   
+ }
+
+
+
+
+
+.titrepremier h1{
+    font-family:arial;
+    font-size:70px;
+    font-family: serif;
+    color:#FEF0D2;
+    text-align:center;
+    
+
+ }
+ 
+ .search-button{
+background-color:#313639;
+color:#FEF0D2;
+border:1px solid #FEF0D2;
+padding-top:6px;
+padding-bottom: 6px;
+padding-left: 17px;
+padding-right: 17px;
+}
+
+.search-button:hover{
+   background-color:#FEF0D2;
+   color:#313639;
+   cursor:pointer;
+}
+
+.newsletter{
+   display:flex;
+   margin-top:5px;
+   cursor:pointer;                                                                          /* newsletter correspond au texte des réseaux sociaux */
+}
+
+.newsletter1{
+margin-right:60px;
+}
+
+.barnave{
+   display: flex;
+   justify-content:center;
+   list-style: none;
+   background-color:#313639;
+   
+}
+
+.barnave li a{
+  text-decoration: none;
+  border: 0.1px solid white  ;
+  text-align: center;
+  padding:10px 10px 10px 10px;
+  color:white;
+  display:inline-block;
+  font-weight:bold;
+}
+
+
+.darkred:hover{
+   border-top:solid 4px darkred;
+}
+.green:hover{
+   border-top:solid 4px green;
+}
+.grey:hover{
+   border-top:solid 4px grey}
+.brown:hover{
+   border-top:solid brown 4px}
+.darkgreen:hover{
+   border-top:solid darkgreen 4px}
+.red:hover{
+   border-top:solid red 4px}
+.violet:hover{
+   border-top:solid violet 4px}
+.clarred:hover{
+   border-top:solid red 4px}
+.clarred{
+color:#FEF0D2;
+   }
+
+.fond-page{
+   background-color: #f4eeee;
+}
+
+.txtcatalogue{
+   color: #B65757;
+   background: #fef0d2;
+   height:65px;
+   font-size:38px;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   padding-left:230px;
+}
+
+
+.img1{
+   justify-content: center;
+   display:flex;
+
+}
+.maison-édition{
+   background-color:darkolivegreen;
+   margin-left:368px;
+   margin-right:369px;
+   height:30px;
+}
+.maison-édition a{
+   text-align:center;
+   color:red;
+}
+.footer{
+display:flex;
+justify-content: center;
+color:black;
+}
+.meslistes{
+display: flex;
+padding:40px;
+
+}
+
+.liste1{
+margin-right:20px;
+}
+
+.liste2{
+   margin-right:20px;
+}
+.liste3{
+
+}
+
+.point{
+   text-decoration:none;
+   list-style: none;
+}
+.meslistes a{
+   color:#615355;
+   text-decoration:none;
+   font-size:11px;
+   font-family:Arial, Helvetica, sans-serif;
+}
+.titrebas{
+
+}
+.liens{
+background-color: grey;
+width:100px;
+height:110px;
+margin-top: 40px;
+}
+.liens a{
+   text-decoration:none;
+   color:#313639;
+}
+
+.barnave2 ul{
+list-style: none;
+}
+/*
+ 2ème page 
+ */
+
